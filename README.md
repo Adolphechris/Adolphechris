@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Adolphe Christopher Mukendi
-### 🏛️ Founder & Lead Systems Architect @ [ASCENDA IT](https://adolphechris.github.io/ascenda-it/)
+### 🏛️ Founder & Lead Systems Architect @ Ets LA LUMIERE — [ASCENDA IT](https://adolphechris.github.io/ascenda-it/)
 
-> Architecting Cloud-Native Systems, DevOps Automation, Security Frameworks & Enterprise Systems.
+> Architecting Cloud-Native Systems, DevOps Automation, Enterprise Security Frameworks & Software Ecosystems.
 
 ---
 
-## 🛠️ Core Engineering Stack
+## 🛠️ Core Engineering & System Stack
 
-- **Cloud & Infrastructure** : AWS, GCP, Kubernetes (CKA Track), Docker, Terraform, Ansible.
-- **Security & Hardening** : Zero-Trust Architecture (NIST 800-207), DFIR, EDR/XDR, CIS Benchmarks, DevSecOps (SLSA Level 3).
-- **Development & Systems** : Linux (RHCSA Track), Bash Shell, Python, TypeScript, Next.js, PostgreSQL.
-- **Enterprise Software** : HealthTech Systems, ERP Architecture, EdTech Platforms.
+- **Enterprise & Cloud Architecture** : AWS, GCP, Kubernetes (CKA Track), Docker, Terraform, Ansible.
+- **Security & Hardening** : Zero-Trust Architecture (NIST 800-207), DFIR Forensics, EDR/XDR, CIS Benchmarks, DevSecOps (SLSA Level 3).
+- **Systems & Automation** : Linux Systems (RHCSA Track), Bash Shell Scripting, Python, TypeScript, Next.js, PostgreSQL.
+- **Business Systems** : HealthTech Systems (MediStream), ERP Systems (CONBUSKA), EdTech Platforms.
 
 ---
 
@@ -24,5 +24,6 @@
 ---
 
 📫 **Contact & Links** :
+- 🏢 **Company** : Ets LA LUMIERE
 - 🌐 **Website** : [ASCENDA IT Platform](https://adolphechris.github.io/ascenda-it/)
 - ✉️ **Email** : `adolphe@ascenda.it`
