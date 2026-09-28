@@ -1,29 +1,29 @@
-# 👋 Hi, I'm Adolphe Christopher Mukendi
-### 🏛️ Founder & Lead Systems Architect @ Ets LA LUMIERE — [ASCENDA IT](https://adolphechris.github.io/ascenda-it/)
+# Adolphe Christopher Mukendi
+Founder & Lead Systems Architect — Ets LA LUMIERE / [ASCENDA IT](https://adolphechris.github.io/ascenda-it/)
 
-> Architecting Cloud-Native Systems, DevOps Automation, Enterprise Security Frameworks & Software Ecosystems.
-
----
-
-## 🛠️ Core Engineering & System Stack
-
-- **Enterprise & Cloud Architecture** : AWS, GCP, Kubernetes (CKA Track), Docker, Terraform, Ansible.
-- **Security & Hardening** : Zero-Trust Architecture (NIST 800-207), DFIR Forensics, EDR/XDR, CIS Benchmarks, DevSecOps (SLSA Level 3).
-- **Systems & Automation** : Linux Systems (RHCSA Track), Bash Shell Scripting, Python, TypeScript, Next.js, PostgreSQL.
-- **Business Systems** : HealthTech Systems (MediStream), ERP Systems (CONBUSKA), EdTech Platforms.
+Systems architect and software engineer specializing in cloud-native infrastructure, DevOps automation, enterprise software ecosystems, and security engineering.
 
 ---
 
-## 📊 Public Engineering Frameworks
+### Technical Expertise & Core Stack
 
-- 🌐 **[ASCENDA IT Platform](https://github.com/Adolphechris/ascenda-it)** : Enterprise IT & Cybersecurity Masterclass System.
-- 🐳 **[ascenda-devops-and-cloud](https://github.com/Adolphechris/ascenda-devops-and-cloud)** : Cloud-Native Infrastructure & Kubernetes Orchestration.
-- 🛡️ **[ascenda-cybersecurity-labs](https://github.com/Adolphechris/ascenda-cybersecurity-labs)** : Security Engineering & System Hardening.
-- ☁️ **[ascenda-cloud-architecture-aws-gcp](https://github.com/Adolphechris/ascenda-cloud-architecture-aws-gcp)** : Multi-Region Cloud Infrastructure.
+- **Cloud & Infrastructure** : AWS, GCP, Kubernetes (CKA Track), Docker, Terraform, Ansible, Linux Systems (RHCSA Track).
+- **Security Engineering** : Zero-Trust Architecture (NIST 800-207), System Hardening (CIS Benchmarks), DevSecOps (SLSA Level 3), DFIR.
+- **Software Systems** : Python, TypeScript, Next.js, PostgreSQL, HealthTech Systems (MediStream), ERP Platforms (CONBUSKA).
 
 ---
 
-📫 **Contact & Links** :
-- 🏢 **Company** : Ets LA LUMIERE
-- 🌐 **Website** : [ASCENDA IT Platform](https://adolphechris.github.io/ascenda-it/)
-- ✉️ **Email** : `adolphe@ascenda.it`
+### Featured Repositories & Frameworks
+
+- **[ascenda-it](https://github.com/Adolphechris/ascenda-it)** — Enterprise IT & Cybersecurity Training Platform Architecture.
+- **[ascenda-devops-and-cloud](https://github.com/Adolphechris/ascenda-devops-and-cloud)** — Cloud-Native Infrastructure & Kubernetes Orchestration.
+- **[ascenda-cybersecurity-labs](https://github.com/Adolphechris/ascenda-cybersecurity-labs)** — Security Engineering & System Hardening Framework.
+- **[ascenda-cloud-architecture-aws-gcp](https://github.com/Adolphechris/ascenda-cloud-architecture-aws-gcp)** — Multi-Region High Availability Cloud Architecture.
+
+---
+
+### Contact
+
+- **Organization** : Ets LA LUMIERE
+- **Website** : [https://adolphechris.github.io/ascenda-it/](https://adolphechris.github.io/ascenda-it/)
+- **Email** : adolphe@ascenda.it
