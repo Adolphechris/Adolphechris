@@ -26,4 +26,5 @@ Systems architect and software engineer specializing in cloud-native infrastruct
 
 - **Organization** : Ets LA LUMIERE
 - **Website** : [https://adolphechris.github.io/ascenda-it/](https://adolphechris.github.io/ascenda-it/)
+- **LinkedIn** : [Adolphe Christopher Mukendi](https://www.linkedin.com/in/adolphe-christopher-mukendi-a652a7414/)
 - **Email** : [adolphechristopher@gmail.com](mailto:adolphechristopher@gmail.com)
